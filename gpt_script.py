@@ -1,5 +1,5 @@
 from openai import OpenAI
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='key-here')
 
 import pandas as pd
 import re
